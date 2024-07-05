@@ -48,7 +48,7 @@ console.log(`divisibleByTen [${divArray}]:`, divisibleByTen(divArray));
 
 ## Education
 
-KYIV NATIONAL UNIVERSITY OF ECONOMICS - KYIV, UKRAINE
+Kyiv National University Of Economics - Kyiv, Ukraine
 - Bachelor of Science, Accounting and Audit
 
 ## Languages:
