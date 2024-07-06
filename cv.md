@@ -41,10 +41,10 @@ console.log(`divisibleByTen [${divArray}]:`, divisibleByTen(divArray));
 
 ## Professional Experience:
 
-- Developed dynamic and interactive web applications, enhancing user experience and functionality.
-- Collaborated with UX/UI designers to implement responsive designs and improve usability.
-- Optimized applications for maximum speed and scalability.
-- Worked closely with back-end developers to integrate APIs and services.
+- Develop dynamic and interactive web applications, enhancing user experience and functionality.
+- Collaborate with UX/UI designers to implement responsive designs and improve usability.
+- Optimize applications for maximum speed and scalability.
+- Work closely with back-end developers to integrate APIs and services.
 
 ## Education
 
