@@ -1,8 +1,8 @@
 :root {
-    --link-hover-color: #1bb7aa;
-    --main-text-color: #4d4e4e;
-    --section-title-color: #1bb7aa;
-    --main-color: #daeeec;
+    --link-hover-color: #e9eeda;
+    --main-text-color: #4e4e4d;
+    --section-title-color: #a0b71b;
+    --main-color: #e7eeda;
     --btn-hover-color: #d0e8c6;
   }
 
@@ -32,7 +32,7 @@
   }
 
   .left-side {
-    background-color: #daeeec;
+    background-color: #e9eeda;
   }
 
   .wrapper {
